@@ -1,0 +1,58 @@
+[
+  {
+    "version": "0.2.0",
+    "archive": null,
+    "archiveSha256": null,
+    "sourceSnapshot": true,
+    "notes": "Retained extracted package-validation snapshot. Original 0.2.0 install ZIP was not found locally."
+  },
+  {
+    "version": "0.2.1",
+    "archive": "dead-space-2008-vortex-extension-0.2.1.zip",
+    "archiveSha256": "0ea5c38f2dfe5a8486a568b060716ae509aedb2aaa33287e45ecf832e6b7d04b",
+    "sourceSnapshot": true,
+    "notes": "Original install ZIP and existing working source snapshot, preserved without changes."
+  },
+  {
+    "version": "0.2.2",
+    "archive": "dead-space-2008-vortex-extension-0.2.2.zip",
+    "archiveSha256": "f677a1412d27cb2f6f2b7ff93eba63896b601a6e22417555957e8e5134e19bd4",
+    "sourceSnapshot": true,
+    "notes": "Original install ZIP and existing working source snapshot, preserved without changes."
+  },
+  {
+    "version": "0.2.3",
+    "archive": "dead-space-2008-vortex-extension-0.2.3.zip",
+    "archiveSha256": "c930a5eb5126bc79f091cef1e05b8e95a0c0fed16446d6d66a2a514f16cc6870",
+    "sourceSnapshot": true,
+    "notes": "Original install ZIP and existing working source snapshot, preserved without changes."
+  },
+  {
+    "version": "0.2.4",
+    "archive": "dead-space-2008-vortex-extension-0.2.4.zip",
+    "archiveSha256": "bb2bb090f047daf723d23c3e4906e7abf5a78e38be466010f4a0cdfeafda9d2e",
+    "sourceSnapshot": true,
+    "notes": "Original install ZIP and existing working source snapshot, preserved without changes."
+  },
+  {
+    "version": "0.2.5",
+    "archive": "dead-space-2008-vortex-extension-0.2.5.zip",
+    "archiveSha256": "d410a231e953f2d40daec7b1537ffa97b8cd5e2ea78cae6e41f3eb2138988136",
+    "sourceSnapshot": true,
+    "notes": "Withdrawn experimental LAA integration. Preserved for history; not a recommended release or the 1.0.0 runtime baseline."
+  },
+  {
+    "version": "0.2.6",
+    "archive": "dead-space-2008-vortex-extension-0.2.6.zip",
+    "archiveSha256": "6b375a0da2f97f337c06bfd23ca69d40c1abf37cdf7fce723eace0e3b2a86f31",
+    "sourceSnapshot": true,
+    "notes": "Original retained 0.2.6 install ZIP and matching source snapshot. Baseline for 1.0.0."
+  },
+  {
+    "version": "1.0.0",
+    "archive": "dead-space-2008-vortex-extension-1.0.0.zip",
+    "archiveSha256": "0aab0096cf6a70a97b3f3234ad33b4cda6fa8224594a4958179b1018563110ba",
+    "sourceSnapshot": false,
+    "notes": "Current release. Source is at repository root; adds gameId 1656 and version/documentation updates while keeping runtime code unchanged."
+  }
+]

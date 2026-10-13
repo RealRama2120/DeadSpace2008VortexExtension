@@ -1,0 +1,6 @@
+{
+  "name": "Dead Space (2008)",
+  "author": "Rama2120",
+  "version": "0.2.3",
+  "description": "Vortex support for Dead Space (2008), with robust cross-drive discovery and a single-attempt game-folder permission check."
+}
